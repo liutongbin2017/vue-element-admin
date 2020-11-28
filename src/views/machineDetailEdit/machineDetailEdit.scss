@@ -1,0 +1,17 @@
+.box {
+  .bindType {
+    margin-left: 10px;
+  }
+  .bindType:last-child{
+    cursor: default;
+  }
+  .title {
+    font-weight: bold;
+  }
+  .bootSetting {
+    margin-top: 20px;
+  }
+  .bootFunSetting {
+    margin-top: 20px;
+  }
+}

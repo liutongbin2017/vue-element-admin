@@ -1,0 +1,12 @@
+.machineDetail {
+  .searchBar {
+    display: grid;
+    grid-template-columns: 150px 150px 150px 80px 80px;
+    grid-column-gap: 20px;
+    margin-bottom: 20px;
+  }
+  .pageination {
+    text-align: center;
+    margin-top: 20px;
+  }
+}

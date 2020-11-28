@@ -1,0 +1,27 @@
+.setData {
+  .setDataTool {
+    display: grid;
+    grid-template-columns: 200px 200px 200px 100px 100px;
+    grid-column-gap: 20px;
+    margin-bottom: 20px;
+  }
+}
+
+.content {
+  overflow: hidden;
+  width: 100%;
+
+  .label {
+    float: left;
+    width: 30%;
+    height: 3000px;
+    // background-color: pink;
+  }
+
+  .data {
+    float: left;
+    width: 70%;
+    height: 3000px;
+    // background-color: skyblue;
+  }
+}
